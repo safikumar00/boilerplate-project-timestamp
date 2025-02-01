@@ -1,6 +1,5 @@
 {
   "name": "fcc-api-projects-boilerplate",
-  "author": "Sunil kumar",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
   "main": "index.js",
@@ -19,6 +18,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
+  "author": "Sunil kumar",
   "keywords": [
     "node",
     "express",
